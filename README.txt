@@ -1,1 +1,1 @@
-Hello this is my Codecademy website project. It showcases features for a travel-app called 'Excursions'.
+Hello this is my Codecademy website project. It showcases features for a fictional travel-app called 'Excursions'. This was a practice project in getting acquainted with html/css programming as well as gitwork flow and git pages
